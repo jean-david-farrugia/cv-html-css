@@ -1,0 +1,19 @@
+h1,h2,h3{
+
+    color:rgb(255, 208, 127);
+}
+
+
+
+body{
+    color:pink;
+    background-color: rgb(36, 41, 142);
+    background-repeat: no-repeat;
+
+}
+
+
+
+#dollar{
+    float:right;
+}
